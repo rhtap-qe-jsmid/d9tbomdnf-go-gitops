@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: d9tbomdnf-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/d9tbomdnf-go-gitops
